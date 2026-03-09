@@ -14,4 +14,4 @@ def test_multiply():
 
 
 def test_division():
-    assert multiply(12, 4) == 3
+    assert division(12, 4) == 3
